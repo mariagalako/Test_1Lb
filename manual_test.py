@@ -1,4 +1,4 @@
-import Test_2
+import Homework
 
 def test_stroka():
     if Test_2.back_string("Hello") == "olleH":
