@@ -1,5 +1,5 @@
 import unittest
-import Test_2
+import Homework
 # вывести сроку в обратном порядке
 class py_test(unittest.TestCase):
     def test_string(self):
